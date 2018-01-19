@@ -18,3 +18,4 @@ The application does not support statements with multiple declarations, urls or 
 @import 'url(www.foo.com/site.scss)'
 ```
 
+![Screenshot](/misc/sassfileviewer.png)
